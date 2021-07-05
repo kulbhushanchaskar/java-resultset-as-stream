@@ -1,4 +1,4 @@
-package com.walmart.resultsetstreams;
+package com.resultsetstreams;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.walmart.resultsetstreams;
+package com.resultsetstreams;
 
 public class User {
 	String empid;
